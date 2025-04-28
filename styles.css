@@ -48,7 +48,7 @@ h3 {
 
 a:hover {
   color: #1d3557;
-  text-decoration: underline dashed;
+  text-decoration: underline;
 }
 
 a[target="_blank"] {
